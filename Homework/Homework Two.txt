@@ -1,0 +1,43 @@
+COMS S1004
+
+Assignment 2
+
+Due June 6 at 11:59PM
+
+PROBLEM SET
+Do the following Review Questions and Practice Exercises in Horstmann’s Big Java Early Objects 6h edition:
+
+Chapter 3: (20) E3.3 (Not in 5th Edition), E3.4, (Not in 5th Edition) , E3.15 (E3.12 in 5th Edition)
+
+Chapter 5: (15 points) R5.4 (R5.4 in 5th Edition), R5.27 (R5.26 in 5th Edition), R5.32 (R5.31 in 5th Edition)
+
+Chapter 6: (15 points) R6.5 (R6.2 in 5th Edition), E6.6 (E6.5 in 5th Edition)
+
+Recommended: (not for credit): R3.12, R3.14, R3.15, , R3.18, E3.12, E3.14, R5.1, R5.9, R5.10, R5.12, R5.16, R5.30, E5.13, R6.10, R6.15, R6.16, E6.2, E6.4, E6.10.
+
+What to hand in
+Chapter 3: Write Java programs for each of these problems. For E3.3 and E3.4 provide a single class for each. For E3.15 you will be creating two classes, each one in it’s own file.
+
+Chapter 5 and Chapter 6, R6.5: Do not write code for these. Submit a single pdf file for these problems. Name the file ReviewExercises.pdf
+
+Chapter 6 E6.6: Write a Java program for this consisting of two classes. Name one DataSet.java and the other DataSetTester.java
+
+PROGRAMMING
+Problem 1 (10 points): Do Programming Project P5.8 in Big Java Early Objects 6th Edition (P5.5 in the 5th Edition). I have provided templates for a class Year and a test class LeapYearTester. You must use the template and you must not alter the test class.
+Problem 2 (20 points): Do Programming Project P6.4 in Big Java Early Objects 6th Edition (P6.3 in the 5th Edition). I have provided a test class only this time. Once again, you must not alter the test class. Your FactorGenerator class must work with the test class I provided.
+Problem 3 (20 points): Do Programming Project P6.5 in Big Java Early Objects 6th Edition (P6.4 in the 5th Edition). This time I have not provided any templates but you should be able to model your design on the previous problem.
+What to hand in
+In addition to the source files for your programs include a text file named readMe.txt with an explanation of what you did for each programming problem. That is, write in plain English, instructions for using your software, explanations for how and why you chose to design your code the way you did. The readMe.txt file is also an opportunity for you to get partial credit when certain requirements of the assignment are not met. Put the readMe.txt file in the same directory as your source and use the usual submission instructions for submitting the assignment.
+
+Submitting your assignment
+For this assignment you should have three types of files: A single PDF file for the review exercises from the problem set, A bunch of .java files that are the source code for your programs, and a single text file named readMe.txt . The source code and the readMe file should already be in your Assignment 2 unit on Codio. Now you just need to upload a copy of the PDF file containing your problem set solutions to Codio and then flip the complete switch.
+
+A word about Grading:
+Each programming question on the assignment will be graded as follows:
+
+30% if it compiles
+30% if it runs properly (expected output for given input, etc.)
+20% for style (formatting of code, variable names, comments, etc. Use the style guide posted on Coursworks!)
+20% for design (efficiency, handling error conditions, etc.)
+
+Please make sure your programs at least compile before you submit them! There will be no partial credit for a program that “almost” compiles.
